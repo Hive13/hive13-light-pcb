@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 5V-AC-Module)(type KiCad)(uri ${KIPRJMOD}/5V-AC-Module.pretty)(options "")(descr ""))
+  (lib (name Fuse)(type KiCad)(uri ${KIPRJMOD}/Fuse.pretty)(options "")(descr ""))
+  (lib (name wemos_d1_mini)(type KiCad)(uri /home/greg/kicad/template/d1_mini_kicad/library/wemos_d1_mini.pretty)(options "")(descr ""))
+)
